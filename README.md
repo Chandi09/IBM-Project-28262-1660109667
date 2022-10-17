@@ -1,7 +1,7 @@
 # IBM-Project-28262-1660109667
 CUSTOMER CARE REGISTRY 
   * TECHNOLOGY : CLOUD APP DEVELOPMENT
-  *  TEAM ID : PNT2022TMID28637
+  *  TEAM ID : PNT2022MID28156
     
 PROJECT DESCRIPTION 
 
@@ -17,7 +17,7 @@ TEAM MEMBERS
   
   * SNEHA KR 
   
-  * VIJAYAVARSHINI KM
+  * VIJAYA VARSHINI KM
   
   * SARAH SWETHA PETER
   
@@ -25,4 +25,4 @@ TEAM MEMBERS
   
  EMPATHY MAP CANVAS :
  
- An empathy map is a visual tool used to gain insight into a user's perspective. Using one allows you to tap into a user's mind and gain their unique perspective. Empathy maps are great in all scenarios where you have to consider user feelings.
+  #  An empathy map is a visual tool used to gain insight into a user's perspective. Using one allows you to tap into a user's mind and gain their unique perspective. Empathy maps are great in all scenarios where you have to consider user feelings.
