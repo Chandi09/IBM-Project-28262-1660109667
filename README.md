@@ -1,4 +1,7 @@
 # IBM-Project-28262-1660109667
+<h1 align="fill" >
+ <img src="purple.png" />
+</h1>
 CUSTOMER CARE REGISTRY 
   * TECHNOLOGY : CLOUD APP DEVELOPMENT
   *  TEAM ID : PNT2022MID28156
