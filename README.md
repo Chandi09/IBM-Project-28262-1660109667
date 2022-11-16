@@ -1,6 +1,6 @@
 # IBM-Project-28262-1660109667
 <h1 align="fill" >
- <img src="purple.png" />
+ <img src="https://github.com/IBM-EPBL/IBM-Project-28262-1660109667/blob/932f4d6dac897ae3ddddd7a50aa3f4f3ea034bb5/purple.png"/>
 </h1>
 
 CUSTOMER CARE REGISTRY 
