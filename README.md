@@ -7,7 +7,7 @@ CUSTOMER CARE REGISTRY
   * TECHNOLOGY : CLOUD APP DEVELOPMENT
   *  TEAM ID : PNT2022MID28156
     
-# PROJECT DESCRIPTION 
+# 📝 PROJECT DESCRIPTION 
 
 This Application has been developed to help the customer in processing their complaints. The customers can raise the ticket with a detailed description of the issue. An Agent will be assigned to the Customer to solve the problem. Whenever the agent is assigned to a customer they will be notified with an email alert. Customers can view the status of the ticket till the service is provided.
 
@@ -15,7 +15,12 @@ ADMIN : The main role and responsibility of the admin are to take care of the wh
 
 USER : They can register for an account. After the login, they can create the complaint with a description of the problem they are facing. Each user will be assigned with an agent. They can view the status of their complaint.
 
-# TEAM MEMBERS  
+# 👨🏻‍💻 SOFTWARE REQUIRED<br />
+- PYTHON<br />
+- FLASK<br />
+- DOCKER<br />
+
+## 🧑🏻‍🦰 TEAM MEMBERS  
 
   * SAHASRA S
   
@@ -26,4 +31,11 @@ USER : They can register for an account. After the login, they can create the co
   * SARAH SWETHA PETER
   
   * SRUTHI S
+  
+## 📒 ASSIGNMENT FINISHED
+
+- [x] ASSIGNMENT 1
+- [x] ASSIGNMENT 2
+- [x] ASSIGNMENT 3 
+- [x] ASSIGNMENT 4
   
