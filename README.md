@@ -22,13 +22,13 @@ USER : They can register for an account. After the login, they can create the co
 
 ## 🧑🏻‍🦰 TEAM MEMBERS  
 
-  * SAHASRA S
+  * SARAH SWETHA PETER
   
   * SNEHA KR 
   
   * VIJAYA VARSHINI KM
   
-  * SARAH SWETHA PETER
+  * SAHASRA S
   
   * SRUTHI S
   
