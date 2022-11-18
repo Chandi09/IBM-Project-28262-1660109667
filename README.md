@@ -22,7 +22,7 @@ USER : They can register for an account. After the login, they can create the co
 
 ## 🧑🏻‍🦰 TEAM MEMBERS  
 
-  * SARAH SWETHA PETER
+  * SARAH SWETHA PETER- Team Lead
   
   * SNEHA KR 
   
